@@ -1,0 +1,5 @@
+preg,glucose,diastolicPressure,skinThickness,insulin,mass,pedi,age,class
+5,140,70,35,0,34,0.5,44,?
+2,88,66,30,0,25,0.3,33,?
+5,180,64,1,0,24,0.4,34,?
+2,90,60,20,94,25,0.1,25,?
